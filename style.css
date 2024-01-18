@@ -1,0 +1,17 @@
+h1{
+    color: goldenrod;
+    margin-left: 170px;
+}
+.post{
+    background-color: lightgreen;
+    height: 170px;
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+}
+.user{
+    font-style: italic;
+}
+.link{
+    margin-left: 170px;
+}
